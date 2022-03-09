@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @streamdp
-- 👀 I’m interested in software development & machine learning
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Golang 
 - 📫 How to reach me: @streamdp on telegram
 <!--- 💞️ I’m looking to collaborate on an interesting project --->
