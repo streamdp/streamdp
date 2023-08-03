@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alexandr Primak
 - 🌱 I’m golang software developer
-- 🔥 I’m looking to collaborate on an interesting project
+- 🔥 I’m looking for a job
 - 📫 How to reach me: https://www.linkedin.com/in/primak/
