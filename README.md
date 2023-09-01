@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alexandr Primak
-- 🌱 I’m golang software developer
+- 🌱 I’m golang developer
 - 📫 How to reach me: https://www.linkedin.com/in/primak/
